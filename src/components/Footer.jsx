@@ -5,7 +5,7 @@ function Footer() {
   return (
     <footer className="footer">
       <div className="container footer-content">
-        <p>© 2026 {profile.name}. All rights reserved.</p>
+        <p>© 2026 {profile.name}.</p>
         <p>Built with <FaHeart /> using React JS</p>
       </div>
     </footer>
