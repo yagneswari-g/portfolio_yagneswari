@@ -52,7 +52,7 @@ export const navLinks = [
 ];
 
 export const heroStats = [
-  { number: "4+", label: "Projects" },
+  { number: "5+", label: "Projects" },
   { number: "10+", label: "Skills" },
   { number: "2026", label: "Graduate" }
 ];
