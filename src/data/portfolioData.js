@@ -184,8 +184,8 @@ export const projects = [
       "Deployed using Netlify"
     ],
     tech: ["React JS", "JavaScript", "CSS", "Framer Motion", "Netlify"],
-    github: "https://github.com/YOUR_GITHUB_USERNAME/portfolio",
-    live: "https://yagneswarig-portfolio.netlify.app",
+    github: "https://github.com/yagneswari-g/portfolio_yagneswari.git",
+    live: "https://yagneswarigangireddy-portfolio.netlify.app/",
     featured: false
   }, 
   {
