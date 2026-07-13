@@ -24,11 +24,11 @@
 | 2  | Employee Management System      | Add live link                                           | [Code](https://github.com/yagneswari-g/employee-management-project) |
 | 3  | LotusReads – Book Store Website | [Live](https://loutsreads.netlify.app/)                 | [Code](https://github.com/yagneswari-g/loutsReads)                  |
 | 4  | Food Recipe Website             | [Live](https://ornate-strudel-food-recipe.netlify.app/) | [Code](https://github.com/yagneswari-g/food-recipe)                 |
-| 5  | Food Delivery Website           | Add live link                                           | [code]     (https://github.com/yagneswari-g/food-delivery-website.git)                                |
-| 6  | Aurumu Watch Website            | Add live link                                           | [code]         (https://github.com/yagneswari-g/aurum-watch-landing.git)                                       |
-| 7  | Velora E-commerce Website       | Add live link                                           | [code]     (https://github.com/yagneswari-g/velora-luxury-ecommerce-v2.git)                                                 |
-| 8  | Netflix Clone                   | Add live link                                           | [Code](https://github.com/yagneswari-g/Netflixclone)                |
-| 9  | Spotify Clone                   | Add live link                                           | [code]     (https://github.com/yagneswari-g/spotify-clone.git)                                                                                              
+| 5 | Food Delivery Website | Add live link | [Code](https://github.com/yagneswari-g/food-delivery-website.git) |
+| 6 | Aurumu Watch Website | Add live link | [Code](https://github.com/yagneswari-g/aurum-watch-landing.git) |
+| 7 | Velora E-commerce Website | Add live link | [Code](https://github.com/yagneswari-g/velora-luxury-ecommerce-v2.git) |
+| 8 | Netflix Clone | Add live link | [Code](https://github.com/yagneswari-g/Netflixclone) |
+| 9 | Spotify Clone | Add live link | [Code](https://github.com/yagneswari-g/spotify-clone.git) |                                                        
 
 ## ✨ Portfolio Features
 
