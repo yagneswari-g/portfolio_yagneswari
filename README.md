@@ -206,8 +206,8 @@ The training helped me strengthen my knowledge of:
 * **Name:** Yagneswari Gangireddy
 * **GitHub:** [github.com/yagneswari-g](https://github.com/yagneswari-g)
 * **Portfolio:** [yagneswarig-portfolio.netlify.app](https://yagneswarigangireddy-portfolio.netlify.app/)
-* **LinkedIn:** Add your LinkedIn profile link
-* **Email:** Add your professional email address
+* **LinkedIn:** https://www.linkedin.com/in/yagneswari/
+* **Email:** yagneswarig@gmail.com
 
 ---
 
