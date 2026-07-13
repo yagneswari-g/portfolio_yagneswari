@@ -18,7 +18,13 @@ import {
   FaGraduationCap,
   FaBriefcase,
   FaCode,
+  FaClock,
+  FaMotorcycle,
+  FaShoppingBag,
+  FaFilm,
+  FaMusic,
   FaTools
+  
 } from "react-icons/fa";
 import { SiSpringboot, SiMysql, SiTailwindcss, SiNetlify } from "react-icons/si";
 
@@ -181,7 +187,119 @@ export const projects = [
     github: "https://github.com/YOUR_GITHUB_USERNAME/portfolio",
     live: "https://yagneswarig-portfolio.netlify.app",
     featured: false
+  }, 
+  {
+    title: "Food Delivery Website",
+    type: "Vanilla JavaScript Project",
+    icon: FaMotorcycle,
+    description:
+      "A responsive food delivery application where users can explore restaurants, filter cuisines, select food items and manage their cart.",
+    features: [
+      "Restaurant listing with cuisine and vegetarian filters",
+      "Menu page with food items, prices and ratings",
+      "Cart with quantity updates, delivery fee and total price",
+      "Order confirmation and localStorage cart persistence"
+    ],
+    tech: [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Clerk Authentication",
+      "LocalStorage"
+    ],
+    github: "https://github.com/yagneswari-g/food-delivery-website.git",
+    live: "#",
+    featured: true
+  },
+   {
+    title: "Aurumu Watch Website",
+    type: "E-commerce Frontend Project",
+    icon: FaClock,
+    description:
+      "A premium watch shopping website with a modern product catalogue, detailed product pages and cart functionality.",
+    features: [
+      "Luxury watch product catalogue",
+      "Product details with images, price and description",
+      "Add-to-cart and quantity management",
+      "Responsive design for mobile and desktop devices"
+    ],
+    tech: ["HTML", "CSS", "JavaScript", "LocalStorage"],
+    github: "https://github.com/yagneswari-g/aurum-watch-landing.git",
+    live: "#",
+    featured: false
+  },
+   {
+    title: "Velora E-commerce Website",
+    type: "E-commerce Project",
+    icon: FaShoppingBag,
+    description:
+      "An end-to-end e-commerce website where users can browse products, view product details, manage their cart and complete checkout.",
+    features: [
+      "Product listing and individual product detail pages",
+      "Add, remove and update product quantities in the cart",
+      "Live cart count and total price calculation",
+      "Google authentication using Clerk before checkout"
+    ],
+    tech: [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Clerk Authentication",
+      "LocalStorage"
+    ],
+    github: "https://github.com/yagneswari-g/velora-luxury-ecommerce-v2.git",
+    live: "#",
+    featured: true
+  },
+  {
+    title: "Netflix Clone",
+    type: "React Project",
+    icon: FaFilm,
+    description:
+      "A responsive Netflix-inspired streaming interface with authentication, movie browsing and dynamic movie data.",
+    features: [
+      "Signup and login pages with protected navigation",
+      "Hero banner with Play and More Info buttons",
+      "Movie and TV show data fetched from the TMDB API",
+      "Horizontal movie rows, hover effects and responsive design"
+    ],
+    tech: [
+      "React JS",
+      "JavaScript",
+      "CSS",
+      "React Router",
+      "TMDB API",
+      "LocalStorage"
+    ],
+    github: "https://github.com/yagneswari-g/Netflixclone.git",
+    live: "#",
+    featured: true
+  },
+  {
+    title: "Spotify Clone",
+    type: "React Project",
+    icon: FaMusic,
+    description:
+      "A Spotify-inspired music application where users can browse music, search tracks, manage playlists and use music player controls.",
+    features: [
+      "Spotify-style sidebar, navbar and music player",
+      "Play, pause, next and previous track controls",
+      "Search songs, albums and artists",
+      "Liked songs and custom playlists using localStorage"
+    ],
+    tech: [
+      "React JS",
+      "JavaScript",
+      "CSS",
+      "React Router",
+      "Context API",
+      "LocalStorage"
+    ],
+    github: "https://github.com/yagneswari-g/spotify-clone.git",
+    live: "#",
+    featured: true
   }
+  
 ];
 
 export const experiences = [
